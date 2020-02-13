@@ -8,9 +8,3 @@ assets/Idle (7).png
 assets/Idle (8).png
 assets/Idle (9).png
 assets/Idle (10).png
-assets/Idle (11).png
-assets/Idle (12).png
-assets/Idle (13).png
-assets/Idle (14).png
-assets/Idle (15).png
-assets/Idle (16).png
