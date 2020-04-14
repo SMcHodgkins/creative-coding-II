@@ -1,0 +1,28 @@
+<html>
+
+<head>
+  <script src="./js/p5.min.js"></script>
+  <script>
+  let vid;
+function setup() {
+  noCanvas();
+
+  vid = createVideo(
+    ['assets/video.mp4'],
+    vidLoad
+  );
+
+  vid.size(1920, 1080);
+}
+
+// This function is called when the video loads
+function vidLoad() {
+  vid.loop();
+  vid.volume(0);
+}
+</script>
+  <title>HW11</title>
+</head>
+<body>
+</body>
+</html>
